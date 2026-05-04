@@ -71,7 +71,7 @@ It analyzes patient records, billing trends, insurance data, and medical conditi
 
 ## 📁 Project Structure
 
-```bash
+
 healthcare-bi-dashboard/
 │
 ├── README.md
@@ -84,4 +84,4 @@ healthcare-bi-dashboard/
 
 ## 📷 Dashboard Preview
 
-![Healthcare Dashboard](images/healthcare_dashboard)
+![Healthcare Dashboard](images/healthcare_dashboard.png)
