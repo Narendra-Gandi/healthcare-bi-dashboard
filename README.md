@@ -84,4 +84,4 @@ healthcare-bi-dashboard/
 
 ## 📷 Dashboard Preview
 
-![Healthcare Dashboard](healthcare_dashboard.png)
+![Healthcare Dashboard](images/healthcare_dashboard.png)
