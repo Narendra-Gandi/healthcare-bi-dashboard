@@ -5,7 +5,7 @@
 This project presents an end-to-end **Business Intelligence solution** in the healthcare domain using **Power BI**.  
 It analyzes patient records, billing trends, insurance data, and medical conditions to generate actionable insights for decision-making.
 
----
+--
 
 ## 🎯 Objectives
 
